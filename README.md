@@ -10,7 +10,7 @@
 | `gitLocalRepo演練.mp4`（34:44） | init、uv 環境、FastAPI 範例、gitignore、add、兩次 commit、lg、diff、checkout |
 | `gitRemote演練.mp4`（26:32） | 先建立 public repo，再 clone；commit → pull → push；第二個目錄模擬 User A，刪除 SQL、保留另一副本未提交的說明檔修改，來回同步及比較兩個 commit |
 
-詳見 [影片核對筆記](影片核對筆記.md)。教材影片沒有上傳至公開 repo。
+
 
 ## 本機 Git 演練
 
