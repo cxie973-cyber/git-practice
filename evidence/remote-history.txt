@@ -1,0 +1,54 @@
+﻿commit 313fd60365befdd31bbfb8f09a8bab76b0764e9a
+Author:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+AuthorDate: Fri Oct 30 12:06:44 2026 +0800
+Commit:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+CommitDate: Fri Oct 30 12:06:44 2026 +0800
+
+    update readme: record original user changes
+
+ 0.readme.txt | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+commit 33e1dfcce129608d334166be85d3f261579258c6
+Author:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+AuthorDate: Fri Oct 30 12:06:35 2026 +0800
+Commit:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+CommitDate: Fri Oct 30 12:06:35 2026 +0800
+
+    delete sql: simulate User A removing sample data
+
+ students.sql | 24 ------------------------
+ 1 file changed, 24 deletions(-)
+
+commit 1414a5c81dfe372da2f337f2d4ada232bd6f5ca1
+Author:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+AuthorDate: Fri Oct 30 12:05:57 2026 +0800
+Commit:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+CommitDate: Fri Oct 30 12:05:57 2026 +0800
+
+    1.0: add classroom FastAPI example and uv environment
+
+ 0.readme.txt               |   16 +
+ db.py                      |   32 +
+ main.py                    |   42 ++
+ pyproject.toml             |   10 +
+ routerUse.py               |   13 +
+ routes/r.py                |   14 +
+ sessionLogin.py            |   61 ++
+ students.sql               |   24 +
+ templates/studentEdit.html |   27 +
+ templates/studentList.html |   26 +
+ uv.lock                    | 1543 ++++++++++++++++++++++++++++++++++++++++++++
+ www/login.html             |   15 +
+ 12 files changed, 1823 insertions(+)
+
+commit c588d2f2619099e2167b04cac75b902aff6f6717
+Author:     cxie973-cyber <cxie973@gmail.com>
+AuthorDate: Fri Oct 30 12:05:48 2026 +0800
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Oct 30 12:05:48 2026 +0800
+
+    Initial commit
+
+ .gitignore | 220 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 220 insertions(+)

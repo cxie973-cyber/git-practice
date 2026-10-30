@@ -1,0 +1,33 @@
+﻿commit 37b6f47e764308fec26af42416226322213b634f
+Author:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+AuthorDate: Fri Oct 30 12:05:14 2026 +0800
+Commit:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+CommitDate: Fri Oct 30 12:05:14 2026 +0800
+
+    Revise readme to practice a second version
+
+ src/prj/0.readme.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 44bb8d1d71a1b7b143fd18f3665789fc7373b29f
+Author:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+AuthorDate: Fri Oct 30 12:05:12 2026 +0800
+Commit:     cxie973-cyber <248380357+cxie973-cyber@users.noreply.github.com>
+CommitDate: Fri Oct 30 12:05:12 2026 +0800
+
+    Initialize classroom FastAPI project for Git practice
+
+ .gitignore                         |    5 +
+ pyproject.toml                     |   10 +
+ src/prj/0.readme.txt               |   14 +
+ src/prj/db.py                      |   32 +
+ src/prj/main.py                    |   42 +
+ src/prj/routerUse.py               |   13 +
+ src/prj/routes/r.py                |   14 +
+ src/prj/sessionLogin.py            |   61 ++
+ src/prj/students.sql               |   24 +
+ src/prj/templates/studentEdit.html |   27 +
+ src/prj/templates/studentList.html |   26 +
+ src/prj/www/login.html             |   15 +
+ uv.lock                            | 1543 ++++++++++++++++++++++++++++++++++++
+ 13 files changed, 1826 insertions(+)
